@@ -15,7 +15,7 @@ n### Olá! Eu sou o Fernando Silva 🖐️
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBarb)](https://github.com/FernandoBarb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBarbo)](https://github.com/FernandoBarbo/github-readme-stats)
 
 
 Estudante de Frontend.
