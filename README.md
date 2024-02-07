@@ -14,7 +14,7 @@ n### Olá! Eu sou o Fernando Silva 🖐️
    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando Barb)](https://github.com/Fernando Barb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBarb)](https://github.com/FernandoBarb/github-readme-stats)
 
 
 Estudante de Frontend.
