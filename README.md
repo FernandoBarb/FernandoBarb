@@ -1,4 +1,4 @@
-n### Olá! Eu sou o Fernando Silva 🖐️
+### Olá! Eu sou o Fernando Silva 🖐️
 
 ![Fernando Barb GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoBarbo&show_icons=true&theme=dracula)
 
